@@ -1,4 +1,4 @@
-# VirtualAssistantProject
+# Virtual Assistant Project
 
 The goal of our project, Speech Recognition with Natural Language Processing (NLP) is to 
 recognize the user’s speech and be able to comprehend and execute commands based on said given 
